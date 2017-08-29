@@ -1,0 +1,4 @@
+module CPOSIX {
+    umbrella "/Users/cbillett/devel/dix975/swift/EasyJWT/.build/checkouts/CPOSIX.git-3088984595747919593/Sources/CPOSIX/include"
+    export *
+}

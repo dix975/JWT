@@ -1,0 +1,4 @@
+module CYAJL {
+    umbrella "/Users/cbillett/devel/dix975/swift/EasyJWT/.build/checkouts/CYAJL.git-4542064459205343853/Sources/CYAJL/include"
+    export *
+}

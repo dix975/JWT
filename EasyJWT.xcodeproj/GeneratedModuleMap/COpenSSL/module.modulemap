@@ -1,0 +1,4 @@
+module COpenSSL {
+    umbrella header "/Users/cbillett/devel/dix975/swift/EasyJWT/.build/checkouts/COpenSSL.git--1107325238714972182/Sources/include/COpenSSL.h"
+    export *
+}

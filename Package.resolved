@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Axis",
+        "repositoryURL": "https://github.com/Zewo/Axis.git",
+        "state": {
+          "branch": null,
+          "revision": "40464b06c0d1b5eb5dc7ff6c994150774e99c5ad",
+          "version": "0.14.0"
+        }
+      },
+      {
+        "package": "COpenSSL",
+        "repositoryURL": "https://github.com/Zewo/COpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "a8a1ae756ba078349edd373a39f5e585433b7e6c",
+          "version": "0.14.0"
+        }
+      },
+      {
+        "package": "CPOSIX",
+        "repositoryURL": "https://github.com/Zewo/CPOSIX.git",
+        "state": {
+          "branch": null,
+          "revision": "04ff717afa8f5e88418f99a15e2c2f9e9f51afdb",
+          "version": "0.14.0"
+        }
+      },
+      {
+        "package": "CYAJL",
+        "repositoryURL": "https://github.com/Zewo/CYAJL.git",
+        "state": {
+          "branch": null,
+          "revision": "1e5e150e6e14f61abd98e547347bc0212c747cd8",
+          "version": "0.14.0"
+        }
+      },
+      {
+        "package": "OpenSSL",
+        "repositoryURL": "https://github.com/Zewo/OpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "cb24491e5da3f7f1f85888e2d5fb04cb0ddc1b50",
+          "version": "0.14.0"
+        }
+      },
+      {
+        "package": "POSIX",
+        "repositoryURL": "https://github.com/Zewo/POSIX.git",
+        "state": {
+          "branch": null,
+          "revision": "53c05695d5c60b5509fbced355a4d96e4642309d",
+          "version": "0.14.1"
+        }
+      },
+      {
+        "package": "RSAKey",
+        "repositoryURL": "https://gitlab.com/katalysis/RSAKey",
+        "state": {
+          "branch": null,
+          "revision": "5f19d22908097d837ff82bfa3f7c8e744b1247a6",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Reflection",
+        "repositoryURL": "https://github.com/Zewo/Reflection.git",
+        "state": {
+          "branch": null,
+          "revision": "84ebf21735e2268594bc829089e75a5846517a2f",
+          "version": "0.14.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
